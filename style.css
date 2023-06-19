@@ -1,5 +1,5 @@
 body {
-    background-color: #E5DA5A;
+    background-color: #FAC700;
 }
 
 #title {
@@ -8,4 +8,9 @@ body {
     font-family: "Inter", sans-serif;   
     margin-top: 200px;
     color: white;
+}
+
+.smiley {
+    margin-left: 525px;
+    margin-top: 30px;
 }
